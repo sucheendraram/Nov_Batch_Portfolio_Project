@@ -69,3 +69,65 @@
 .header .content .social-icon li a:hover {
     border-color: #fff;
 }
+
+.right-col-block {
+    width: 50%;
+    position: absolute;
+    right: 0;
+}
+
+.section-wrapper {
+    padding: 50px;
+}
+
+.section-title {
+    margin-bottom: 15px;
+}
+
+.section-title h2 {
+    color: #444;
+}
+
+.expertise-item {
+    margin-bottom: 30px;
+}
+
+.expertise-item h3 {
+    color: #333;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+.content-item {
+    margin-bottom: 40px;
+}
+
+.content-item h3 {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+}
+
+.content-item small {
+    color: #888;
+}
+
+.education-content {
+    margin-bottom: 40px;
+}
+
+.education-content h3 {
+    margin: 0 0 10px;
+    font-weight: bold;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.education-content h4 {
+   margin: 0;
+   line-height: 1; 
+}
+
+.education-content small {
+    color: #888;
+}
