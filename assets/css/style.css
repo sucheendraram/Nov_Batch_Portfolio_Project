@@ -131,3 +131,48 @@
 .education-content small {
     color: #888;
 }
+
+.control-margin {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form-control {
+    height: 50px;
+    padding: 0 20px !important;
+    font-size: 15px !important;
+    border: 2px solid #ccc !important;
+    border-radius: 0 !important;
+}
+
+.btn {
+    padding: 15px !important;
+    font-size: 15px !important;
+    font-weight: bold !important;
+    border-radius: 0 !important;
+    text-transform: uppercase !important;
+    color: #fff !important;
+}
+
+.btn-primary {
+    background-color: #1C1EE6 !important;
+}
+
+.footer {
+    padding: 30px 50px;
+}
+
+.footer .footer-section 
+{
+    font-size: 13px;
+    color: #888;
+}
+
+.footer .footer-section .copyright-text {
+    font-weight: 400;
+    display: block;
+}
+
+.background-grey {
+    background: #F9F9F9;
+}
